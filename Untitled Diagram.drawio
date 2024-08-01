@@ -88,11 +88,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LH7fcYnhYMUPDVRSZud-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="-LH7fcYnhYMUPDVRSZud-22" vertex="1" connectable="0">
-          <mxGeometry x="-0.0596" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-LH7fcYnhYMUPDVRSZud-28" style="shape=link;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;" parent="1" target="-LH7fcYnhYMUPDVRSZud-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="153.09860351425232" y="59.619645218486994" as="sourcePoint" />
